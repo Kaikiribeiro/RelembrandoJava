@@ -18,17 +18,17 @@ O projeto está organizado em pacotes seguindo as etapas do aprendizado:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java 21**: Versão utilizada para o desenvolvimento.
+* **Java 25**: Versão utilizada para o desenvolvimento.
 * **Maven**: Gerenciador de dependências e automação de builds.
 * **IntelliJ IDEA**: IDE principal para desenvolvimento.
 * **Git & GitHub**: Controle de versão e hospedagem do código.
 
 ## 📖 Como usar
 
-1.  Certifique-se de ter o **JDK 21** instalado.
+1.  Certifique-se de ter o **JDK 25** instalado.
 2.  Clone o repositório:
     ```bash
-    git clone https://github.com/Kaikiribeiro/CursoDeJava.git
+    git clone https://github.com/Kaikiribeiro/RelembrandoJava.git
     ```
 3.  Importe o projeto na sua IDE de preferência como um projeto Maven.
 
