@@ -19,7 +19,6 @@ O projeto está organizado em pacotes seguindo as etapas do aprendizado:
 ## 🛠️ Tecnologias Utilizadas
 
 * **Java 25**: Versão utilizada para o desenvolvimento.
-* **Maven**: Gerenciador de dependências e automação de builds.
 * **IntelliJ IDEA**: IDE principal para desenvolvimento.
 * **Git & GitHub**: Controle de versão e hospedagem do código.
 
