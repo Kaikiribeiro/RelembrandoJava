@@ -1,6 +1,6 @@
 # Curso de Java 🚀
 
-![Java](https://img.shields.io/badge/Java-21-orange) ![Maven](https://img.shields.io/badge/Maven-Build-blue) ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
+![Java](https://img.shields.io/badge/Java-25-orange)  ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
 
 Repositório dedicado ao armazenamento de estudos, exercícios e projetos práticos desenvolvidos durante o meu aprendizado da linguagem Java.
 
